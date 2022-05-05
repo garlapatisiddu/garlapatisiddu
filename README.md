@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @garlapatisiddu
 - 👀 I’m interested in computer
 - 🌱 I’m currently learning c language,html
-- 💞️ I’m looking to collaborate on Mini Voting System,matrices Calculator.
+- 💞️ I’m looking to collaborate on Mini Voting System,matrices Calculator, Electricity Bill Calculator,Tic-tac-toe Game
 - 📫 How to reach me you just mail to id 
 
 <!---
