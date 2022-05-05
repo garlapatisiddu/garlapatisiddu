@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @garlapatisiddu
+- 👋 Hi, I’m siddu
 - 👀 I’m interested in computer
 - 🌱 I’m currently learning c language,html
 - 💞️ I’m looking to collaborate on Mini Voting System,matrices Calculator, Electricity Bill Calculator,Tic-tac-toe Game
